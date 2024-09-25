@@ -1,0 +1,34 @@
+.button-default-add{
+    background-color: white;
+    color: var(--blue-50);
+    cursor:pointer;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+.button-red{
+    background-color: var(--red-50);
+    color:white;
+    cursor:pointer;
+    text-align: center;
+    text-decoration: none;
+}
+.button-size-big{
+    border-radius: 4px;
+    border-width: 0;
+    font-size:18px;
+    line-height: 22px;
+    padding: 14px 24px;
+    font-weight: 700;
+    transition: background-color .1s, color .1s, box-shadow .1s;
+}
+.button-size-medium{
+    border-radius: 3px;
+    border-width: 0;
+    font-size:15px;
+    line-height: 16px;
+    padding: 12px 20px;
+    font-weight: 600;
+    transition: background-color .1s, color .1s, box-shadow .1s;
+}

@@ -1,0 +1,11 @@
+
+.step-label{
+    display: flex;
+    flex-direction: row;
+    color:var(--neutral-90);
+    letter-spacing:0.5px;
+}
+.step-label__inactive{
+    color:var(--neutral-50);
+    letter-spacing:0.5px;
+}

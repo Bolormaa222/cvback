@@ -1,0 +1,15 @@
+.resume-templates{
+    min-height: 100vh;
+    background-color: white;
+}
+.resume-templates__body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.resume-tempates__templates{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}

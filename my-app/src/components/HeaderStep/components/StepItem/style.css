@@ -1,0 +1,10 @@
+.step-item{
+    display: flex;
+    align-items: center;
+    margin:0 10px;
+}
+.step-item__dash{
+    height: 1px;
+    width: 30px;
+    background-color: #ddd;
+}

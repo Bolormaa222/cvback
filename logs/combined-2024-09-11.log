@@ -1,0 +1,3888 @@
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 500,
+  response_time: 26.071,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 04:41:23.265 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 42.82,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 04:42:04.802 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 21.75,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 04:44:24.703 AM'
+}
+{
+  method: 'OPTIONS',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 18.421,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:19:58.524 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:22:16.213 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:22:16.221 AM'
+}
+{
+  method: 'OPTIONS',
+  url: '/api/v1/add',
+  status: 204,
+  response_time: 0.961,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:22:27.851 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 35.645,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:22:27.907 AM'
+}
+{
+  method: 'OPTIONS',
+  url: '/api/v1/add',
+  status: 204,
+  response_time: 1.448,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:23:19.495 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 18.262,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:23:19.529 AM'
+}
+{
+  method: 'OPTIONS',
+  url: '/api/v1/add',
+  status: 204,
+  response_time: 1.508,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:24:06.459 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 24.505,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:24:06.494 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 18.11,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:26:49.266 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 20.753,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:28:11.955 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 24.91,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:31:29.701 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 18.942,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:40:19.074 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 14.141,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:41:23.214 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 200,
+  response_time: 23.714,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:41:23.439 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 9.277,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:42:49.851 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:36.235 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:36.240 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:51.171 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:51.175 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:55.629 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:44:55.632 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:23.431 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:23.434 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:25.827 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:25.830 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:30.320 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 05:45:30.323 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 70.383,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:46:38.619 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.857,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:47:42.837 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 2.534,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:47:42.915 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 12.686,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:47:57.698 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 14.719,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:04.452 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 4.499,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:04.520 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.336,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:09.069 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.311,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:11.160 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 3.049,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:11.297 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.284,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:48:54.134 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 05:49:26.446 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 10.594,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:49:26.460 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 05:49:31.501 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 6.518,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:49:31.508 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 05:49:42.798 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 10.005,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 05:49:42.805 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 28.066,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:23:56.671 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 28.875,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:24:21.642 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 19.918,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:24:34.974 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 1.729,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:24:35.046 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 19.049,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:24:39.324 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 3.923,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:24:39.405 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 10.364,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:25:01.893 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 4.241,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:25:02.695 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 2.131,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:25:02.770 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 7.057,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:26:59.651 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:26:59.843 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 429,
+  response_time: 2.113,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:26:59.846 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:27:11.670 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 8.725,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:27:11.682 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:27:46.357 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 4.174,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:27:46.364 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:27:46.439 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 429,
+  response_time: 4.316,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:27:46.444 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:27:50.874 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 2.67,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:27:50.879 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:27:50.956 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 429,
+  response_time: 0.962,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:27:50.957 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:28:02.084 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 4.183,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:28:02.087 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:28:02.137 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 429,
+  response_time: 1.639,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:28:02.139 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:28:26.277 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 429,
+  response_time: 5.681,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:28:26.285 AM'
+}
+{
+  message: 'Too many requests: too many requests from this ip address please try after 15 minutes\tGET\tundefined\tundefined',
+  level: 'error',
+  timestamp: '2024-09-11 06:28:26.334 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 429,
+  response_time: 1.613,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:28:26.335 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 06:30:07.513 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 06:30:07.517 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 29.964,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:30:12.245 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 2.897,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 06:30:12.286 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:56:04.744 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:56:04.747 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 26.284,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 07:56:17.894 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 304,
+  response_time: 2.861,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 07:56:18.061 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:57:38.374 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:57:38.378 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:57:44.753 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:57:44.756 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:58:12.253 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:58:12.257 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:21.147 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:21.150 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:30.322 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:30.327 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:37.598 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:37.602 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:58.608 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 07:59:58.612 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e05a20812fe73640710c35',
+  status: 200,
+  response_time: 58.434,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:17:46.559 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 12.677,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:18:34.034 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.215,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:18:37.713 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.182,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:19:29.962 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 42.255,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:21:58.259 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 21.982,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:22:17.411 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 22.388,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:29:55.467 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66dbf83e829700209824282b',
+  status: 200,
+  response_time: 8.347,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:29:55.600 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 15.651,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:30:07.210 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 11.933,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:30:11.435 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.231,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:30:37.434 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 13.292,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:31:05.771 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 17.806,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:31:09.287 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 23.615,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:31:30.200 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 12.184,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:31:46.601 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 29.041,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:02.645 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 15.009,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:05.191 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 41.92,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:18.653 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.162,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:18.704 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 24.813,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:23.528 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 32.524,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:30.399 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 24.296,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:32:49.555 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 8.259,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:33:05.821 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 15.171,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:33:08.676 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 1.633,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:33:08.728 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:32.712 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:32.716 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:37.398 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:37.401 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:43.298 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:43.303 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 30.358,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:33:48.007 AM'
+}
+{
+  error: ReferenceError: buildPDF is not defined
+      at file:///app/backend/routes/index.js:41:3
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'unhandledRejection: buildPDF is not defined\n' +
+    'ReferenceError: buildPDF is not defined\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'ReferenceError: buildPDF is not defined\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  rejection: true,
+  date: 'Wed Sep 11 2024 08:33:48 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 170,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 75010048,
+      heapTotal: 38203392,
+      heapUsed: 25134984,
+      external: 24712821,
+      arrayBuffers: 18342381
+    }
+  },
+  os: { loadavg: [ 3.05, 1.87, 1.07 ], uptime: 853 },
+  trace: [
+    {
+      column: 3,
+      file: 'file:///app/backend/routes/index.js',
+      function: null,
+      line: 41,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-09-11 08:33:48.038 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:54.565 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:33:54.569 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 24.037,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:33:57.977 AM'
+}
+{
+  error: ReferenceError: buildPDF is not defined
+      at file:///app/backend/routes/index.js:41:3
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'unhandledRejection: buildPDF is not defined\n' +
+    'ReferenceError: buildPDF is not defined\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'ReferenceError: buildPDF is not defined\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  rejection: true,
+  date: 'Wed Sep 11 2024 08:33:58 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 181,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 75436032,
+      heapTotal: 38203392,
+      heapUsed: 25200480,
+      external: 24712812,
+      arrayBuffers: 18342381
+    }
+  },
+  os: { loadavg: [ 2.97, 1.89, 1.09 ], uptime: 862.96 },
+  trace: [
+    {
+      column: 3,
+      file: 'file:///app/backend/routes/index.js',
+      function: null,
+      line: 41,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-09-11 08:33:58.007 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:37:44.938 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:37:44.943 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 49.512,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:38:20.879 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.101,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:38:20.981 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:39:38.574 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:39:38.578 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 35.209,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:39:46.470 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.287,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:39:46.523 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:40:04.071 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:40:04.075 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:41:04.182 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:41:04.186 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 21.271,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:41:16.173 AM'
+}
+{
+  error: ReferenceError: leftWidth is not defined
+      at buildPDF (file:///app/backend/libs/pdfkit.js:104:12)
+      at file:///app/backend/routes/index.js:41:3
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'unhandledRejection: leftWidth is not defined\n' +
+    'ReferenceError: leftWidth is not defined\n' +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:104:12)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'ReferenceError: leftWidth is not defined\n' +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:104:12)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  rejection: true,
+  date: 'Wed Sep 11 2024 08:41:16 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 71,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 89845760,
+      heapTotal: 33148928,
+      heapUsed: 29452912,
+      external: 20383496,
+      arrayBuffers: 18683408
+    }
+  },
+  os: { loadavg: [ 1.08, 1.57, 1.25 ], uptime: 1301.21 },
+  trace: [
+    {
+      column: 12,
+      file: 'file:///app/backend/libs/pdfkit.js',
+      function: 'buildPDF',
+      line: 104,
+      method: null,
+      native: false
+    },
+    {
+      column: 3,
+      file: 'file:///app/backend/routes/index.js',
+      function: null,
+      line: 41,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-09-11 08:41:16.240 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:41:32.280 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:41:32.284 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 32.431,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:41:34.380 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.957,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:41:34.427 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:26.961 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:26.965 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:35.478 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:35.482 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:47.436 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:43:47.445 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 32.497,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:44:05.780 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.667,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:44:05.834 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:44:32.832 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:44:32.836 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:44:42.536 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:44:42.540 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 31.522,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:44:48.483 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.592,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:44:48.539 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 42.866,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:45:17.056 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.316,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:45:20.249 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.858,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:45:20.331 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:46:09.590 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:46:09.594 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:46:18.828 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:46:18.833 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 42.575,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:46:25.230 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.701,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:46:25.319 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:14.178 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:14.183 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:18.257 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:18.260 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 21.954,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:47:20.735 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.057,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:47:20.792 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:30.452 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:47:30.456 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:09.675 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:09.679 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 22.689,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:10.861 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.724,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:10.933 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:20.088 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:20.108 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 26.994,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:21.675 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.013,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:21.728 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:26.798 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:26.802 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 16.758,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:28.655 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.039,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:28.716 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:36.202 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:36.206 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:41.058 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:48:41.066 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 26.212,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:42.213 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.311,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:48:42.286 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:36.629 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:36.633 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:52.524 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:52.528 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:59.090 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:49:59.095 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:07.269 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:07.273 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:11.047 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:11.051 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.938,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:13.759 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.06,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:13.815 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 26.688,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:19.065 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 21.141,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:21.060 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 2.956,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:22.321 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.819,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:22.397 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:28.762 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:28.766 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:37.329 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:50:37.337 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 18.736,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:38.748 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.766,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:38.818 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 26.456,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:44.208 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 15.825,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:45.054 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 3.149,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:54.914 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.772,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:50:54.996 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 35.754,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:51:13.350 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 51.764,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:52:34.131 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:53:31.064 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:53:31.069 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:53:41.642 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:53:41.648 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 16.318,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:53:44.383 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.152,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:53:44.453 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 5.099,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:53:48.449 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.665,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:53:48.531 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:54:39.548 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:54:39.552 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 44.774,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:54:54.701 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.563,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:54:57.503 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.389,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:54:57.609 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 26.1,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:00.702 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.902,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:03.034 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 8.955,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:03.156 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:16.305 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:16.308 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 28.183,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:18.673 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.908,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:18.745 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:31.096 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:31.100 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 33.369,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:32.785 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.804,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:32.838 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:39.800 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:39.805 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.633,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:40.958 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.07,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:41.012 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:45.647 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:56:45.652 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 29.773,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:46.850 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.591,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:56:46.901 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:11.484 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:11.491 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 22.447,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:58:15.527 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.567,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:58:15.605 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:30.496 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:30.499 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:31.120 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:31.124 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:40.882 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:40.885 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:43.746 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:58:43.750 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 31.048,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:58:45.514 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.87,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:58:45.565 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:59:09.661 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:59:09.665 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:59:13.765 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 08:59:13.777 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 12.759,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:59:15.369 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.851,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 08:59:15.441 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:00:13.239 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:00:13.243 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:00:51.732 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:00:51.735 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:01:13.256 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:01:13.260 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:01:18.226 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:01:18.229 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 25.585,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:01:22.154 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.529,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:01:22.203 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:02:14.547 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:02:14.551 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:02:33.151 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:02:33.155 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 30.64,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:02:36.259 AM'
+}
+{
+  error: ReferenceError: location is not defined
+      at buildPDF (file:///app/backend/libs/pdfkit.js:117:84)
+      at file:///app/backend/routes/index.js:41:3
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'unhandledRejection: location is not defined\n' +
+    'ReferenceError: location is not defined\n' +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:117:84)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'ReferenceError: location is not defined\n' +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:117:84)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  rejection: true,
+  date: 'Wed Sep 11 2024 09:02:36 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 692,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 87826432,
+      heapTotal: 64868352,
+      heapUsed: 33608488,
+      external: 28444479,
+      arrayBuffers: 18824301
+    }
+  },
+  os: { loadavg: [ 1.21, 1.13, 1.08 ], uptime: 2568.05 },
+  trace: [
+    {
+      column: 84,
+      file: 'file:///app/backend/libs/pdfkit.js',
+      function: 'buildPDF',
+      line: 117,
+      method: null,
+      native: false
+    },
+    {
+      column: 3,
+      file: 'file:///app/backend/routes/index.js',
+      function: null,
+      line: 41,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-09-11 09:02:36.311 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:04.675 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:04.679 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:22.516 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:22.520 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:39.513 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:39.517 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:50.136 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:04:50.139 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 33.482,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:04:55.805 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.618,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:04:55.855 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 27.107,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:17.363 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.453,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:20.166 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 1.939,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:20.259 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:05:31.208 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:05:31.212 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 29.412,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:34.791 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.089,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:34.842 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:05:50.288 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:05:50.292 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 29.801,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:53.088 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.97,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:05:53.142 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:12.110 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:12.114 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:15.747 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:15.764 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 15.034,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:17.258 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.546,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:17.324 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:25.297 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:25.301 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 31.956,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:27.386 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.967,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:27.435 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:33.824 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:33.829 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 22.458,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:35.011 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.122,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:06:35.067 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:48.689 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:48.693 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:54.486 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:06:54.490 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:06.766 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:06.770 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:12.059 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:12.063 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:21.938 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:21.942 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 31.261,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:24.290 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.884,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:24.364 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:30.555 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:30.563 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 23.967,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:32.136 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.704,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:32.197 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:40.514 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:40.518 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:45.859 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:45.875 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 19.736,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:47.575 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.553,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:47.637 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:55.738 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:07:55.743 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.17,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:57.138 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.493,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:07:57.193 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:02.532 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:02.537 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 20.731,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:08:03.531 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.194,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:08:03.589 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:11.229 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:11.233 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 28.606,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:08:12.662 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 6.114,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:08:12.750 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:25.489 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:08:25.495 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:19.922 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:19.926 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 24.837,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:22.813 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.886,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:22.869 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 3.745,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:23.193 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.758,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:23.276 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:29.088 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:29.092 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 22.399,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:30.236 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.741,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:09:30.291 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:53.400 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:53.404 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:54.225 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:09:54.230 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:02.529 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:02.532 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 23.006,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:04.232 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.004,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:04.288 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:32.999 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:33.004 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:36.987 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:36.991 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:40.825 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:40.829 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 33.958,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:43.084 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.658,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:43.135 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:48.060 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:10:48.064 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 36.028,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:49.401 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 5.632,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:10:49.473 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:06.169 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:06.172 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 19.335,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:11:07.341 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.633,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:11:07.407 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:35.479 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:35.484 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:42.678 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:11:42.689 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 18.663,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:11:44.122 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.738,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:11:44.185 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 35.219,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:12:11.104 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.917,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:12:13.735 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.336,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:12:13.835 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 32.886,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:13:02.169 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:13:32.060 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:13:32.064 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:15:01.562 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:15:01.566 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:15:57.445 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:15:57.449 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:04.692 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:04.696 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:07.253 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:07.257 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:45.086 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:16:45.090 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:20.215 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:20.219 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:25.335 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:25.339 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 24.711,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:17:28.348 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.816,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:17:28.411 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:43.774 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:17:43.779 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 24.424,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:17:45.420 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.061,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:17:45.475 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:07.564 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:07.571 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 21.404,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:09.031 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 2.749,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:09.087 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:17.403 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:17.408 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 18.331,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:18.651 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.024,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:18.711 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:32.737 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:32.743 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 16.686,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:34.207 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 3.088,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:34.267 AM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:39.978 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 09:18:39.982 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 21.381,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:41.450 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 4.431,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 09:18:41.515 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 41.602,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 12:52:01.536 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 12:52:15.102 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 12:52:15.109 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 200,
+  response_time: 30.697,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 12:52:16.876 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:15:53.880 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:15:53.884 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 58.548,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:16:30.327 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:16:41.946 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:16:41.950 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:16:43.914 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:16:43.918 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 25.113,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:17:06.563 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 3.304,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:17:11.401 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 26.241,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:17:28.676 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 27.254,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:17:44.433 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 7.32,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:17:48.722 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 24.347,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:18:08.471 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e12d8347c73550dd0c82d9',
+  status: 304,
+  response_time: 16.434,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:18:16.391 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 30.581,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:19:08.188 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 4.626,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:19:08.212 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 2.431,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:19:08.307 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 9.152,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:20:12.216 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 3.874,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:20:12.295 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 18.015,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:20:35.370 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 3.155,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:20:35.442 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 11.607,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:21:06.125 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 3.187,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:21:06.286 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 26.875,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:21:41.653 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 10.439,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:21:56.364 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 13.036,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:22:02.158 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 2.978,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:22:09.772 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 2.414,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:22:09.851 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 56.269,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:22:40.975 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 200,
+  response_time: 12.603,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:23:11.073 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 25.291,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:24:21.106 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e2256c26941cdd65519a68',
+  status: 304,
+  response_time: 11.899,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:24:51.974 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/add',
+  status: 200,
+  response_time: 13.3,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:28:54.697 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 5.048,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:28:54.722 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 1.92,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:28:54.812 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/update/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 26.339,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:29:36.996 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 6.419,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:29:39.099 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 5.593,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:29:39.188 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:31:41.709 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:31:41.713 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:31:52.052 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:31:52.057 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:32:06.635 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:32:06.639 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 30.441,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:32:11.742 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 4.243,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:32:11.797 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:33:06.001 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:33:06.005 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 29.42,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:33:08.491 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 3.861,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:33:08.561 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:33:52.805 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:33:52.809 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 25.072,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:33:54.476 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 3.507,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:33:54.527 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:34:30.030 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:34:30.034 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:36:20.107 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:36:20.113 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:36:27.634 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:36:27.640 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 25.445,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:36:30.421 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 4.417,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:36:30.478 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:37:19.748 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:37:19.754 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 31.208,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:37:21.672 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 2.921,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:37:21.719 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:11.406 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:11.410 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:17.049 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:17.053 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/detail/66e227b626941cdd65519a81',
+  status: 304,
+  response_time: 29.721,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:38:19.911 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/invoice/66e227b626941cdd65519a81',
+  status: 200,
+  response_time: 4.983,
+  level: 'http',
+  message: 'incom-request',
+  timestamp: '2024-09-11 11:38:19.961 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:42.867 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:38:42.870 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:40:47.655 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:40:47.659 PM'
+}
+{
+  message: '\x1B[34m\x1B[1mMOngodb connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:45:15.712 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mcheck\x1B[22m\x1B[39m Server running in \x1B[33m\x1B[1mdevelopment\x1B[22m\x1B[39m mode on port \x1B[34m\x1B[1m1997\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2024-09-11 11:45:15.715 PM'
+}

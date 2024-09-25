@@ -1,0 +1,82 @@
+version: "3.9"
+services:
+  api:
+    restart: always
+    build:
+      context: .
+      dockerfile: ./docker/local/express/Dockerfile
+    volumes:
+      - /app/node_modules
+      - .:/app
+    depends_on:
+      - mongodb
+    #ports:
+    #  - "1997:1997"
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      MONGO_URI: mongodb://${MONGO_ROOT_USERNAME}:${MONGO_ROOT_PASSWORD}@mongodb
+      FORCE_COLOR: 1
+    networks:
+      - cv
+  mongodb:
+    image: mongo:5.0.6-focal
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD}
+    volumes:
+      - mongodb-data:/data/db
+    networks:
+      - cv
+  mongo-express:
+    image: mongo-express:0.54.0
+    depends_on:
+      - mongodb
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: ${MONGO_ROOT_USERNAME}
+      ME_CONFIG_MONGODB_ADMINPASSWORD: ${MONGO_ROOT_PASSWORD}
+      ME_CONFIG_MONGODB_SERVER: mongodb
+    networks:
+      - cv
+  mailhog:
+    image: mailhog/mailhog:v1.0.0
+    ports:
+      - "8025:8025"
+      - "1025:1025"
+    networks:
+      - cv
+  client:
+    build:
+      context: ./my-app
+      dockerfile: ./docker/local/Dockerfile
+    restart: on-failure
+    volumes:
+      - ./my-app:/app
+      - /app/node_modules
+    networks:
+      - cv
+  nginx:
+    build:
+      context:  ./docker/local/nginx
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    restart: always
+    depends_on:
+      - api
+    volumes:
+      - static_volume:/app/staticfiles
+      - pdf_volume:/app/docs
+    networks:
+      - cv
+networks:
+  cv:
+    driver: bridge
+volumes: 
+  mongodb-data:
+  static_volume:
+  pdf_volume:

@@ -1,0 +1,19 @@
+.home-page{
+    background-color: var(--neutral-10);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.home-page__body{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    overflow: hidden;
+}
+
+.home-page__body img{
+    margin-top:50px;
+    border-radius: 20px;
+}
