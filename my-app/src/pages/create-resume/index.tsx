@@ -43,7 +43,7 @@ const CreateResume = () => {
     const getInfo=async ()=>{
         try{
             setLoaded(false)
-            const data = await axios.get(`${process.env.REACT_APP_DOMAIN}/api/v1/detail/${id}`)
+            const data = await axios.get(`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/detail/${id}`)
             console.log("Data get info ", data.data.data)
             
             setInfo(inf=>{
@@ -112,7 +112,7 @@ const CreateResume = () => {
                             onSubmit={async (values, helpers) => {
                                 try{
                                     console.log("values ", values)
-                                    const result = await axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/update/${id}`,values)
+                                    const result = await axios.post(`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/update/${id}`,values)
                                     console.log("after result ",result)
                                     setSavedInfo(result.data.data)
                                 }catch(err){
@@ -415,11 +415,11 @@ const CreateResume = () => {
                         </div>
                         <Button className='button-default button-size-medium' title="Download PDF" onClick={()=>{
                             //if(savedInfo!==null){
-                                window.open(`${process.env.REACT_APP_DOMAIN}/api/v1/invoice/${id}`, '_blank', 'noopener,noreferrer');
+                                window.open(`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/invoice/${id}`, '_blank', 'noopener,noreferrer');
                             //}
                             }} type={ButtonType.button} />
                     </div>
-                    <Document  className={"document"} file={`${process.env.REACT_APP_DOMAIN}/api/v1/invoice/${id}?time=${Math.random()}`} onLoadSuccess={onDocumentLoadSuccess}>
+                    <Document  className={"document"} file={`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/invoice/${id}?time=${Math.random()}`} onLoadSuccess={onDocumentLoadSuccess}>
                         <Page className={"page"} height={window.innerHeight-100} scale={1} renderTextLayer={false} renderAnnotationLayer={false} pageNumber={pageNumber} />
                     </Document>
                     <p>

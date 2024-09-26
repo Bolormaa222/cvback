@@ -2447,3 +2447,65 @@
   ],
   timestamp: '2024-09-22 03:14:00.976 PM'
 }
+{
+  error: TypeError: Cannot destructure property 'firstName' of 'cvData' as it is null.
+      at buildPDF (file:///app/backend/libs/pdfkit.js:36:10)
+      at file:///app/backend/routes/index.js:41:3
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: "unhandledRejection: Cannot destructure property 'firstName' of 'cvData' as it is null.\n" +
+    "TypeError: Cannot destructure property 'firstName' of 'cvData' as it is null.\n" +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:36:10)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: "TypeError: Cannot destructure property 'firstName' of 'cvData' as it is null.\n" +
+    '    at buildPDF (file:///app/backend/libs/pdfkit.js:36:10)\n' +
+    '    at file:///app/backend/routes/index.js:41:3\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  rejection: true,
+  date: 'Wed Sep 25 2024 17:47:12 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 2130,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 88485888,
+      heapTotal: 32612352,
+      heapUsed: 29813992,
+      external: 19801656,
+      arrayBuffers: 18691392
+    }
+  },
+  os: { loadavg: [ 0.51, 0.51, 0.49 ], uptime: 158764.02 },
+  trace: [
+    {
+      column: 10,
+      file: 'file:///app/backend/libs/pdfkit.js',
+      function: 'buildPDF',
+      line: 36,
+      method: null,
+      native: false
+    },
+    {
+      column: 3,
+      file: 'file:///app/backend/routes/index.js',
+      function: null,
+      line: 41,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2024-09-25 05:47:12.249 PM'
+}

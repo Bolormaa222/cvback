@@ -35,14 +35,14 @@ const CreateResumeIntroduction=()=>{
                             email: Yup.string().required("Email is required")
                         })}
                         onSubmit={(values, helpers)=>{
-                            console.log(" intro ",values )
-                            axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/add`,{
+                            console.log(" intro ", process.env)
+                            axios.post(`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/add`,{
                                 firstName:values.firstName,
                                 email:values.email,
                                 lastName: values.lastName
                             })
                             .then(data=>{
-                                console.log("data ", data.data.data._id)
+                                console.log("data ", data.data)
                                 if(data.data.success){
                                    navigate(`/app/create-resume/continue/${data.data.data._id}`)
                                 }
