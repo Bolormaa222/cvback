@@ -18,7 +18,7 @@ import cors from 'cors'
  app.use(express.urlencoded({extended: false}));
  app.use(cookieParser())
  app.use(mongoSanitize())
- app.use(morganMiddleware)
+ //app.use(morganMiddleware)
  app.use(cors());
 
 app.use("/api/v1/",apiLimiter, route)
