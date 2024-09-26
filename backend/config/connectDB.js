@@ -17,7 +17,7 @@ const connectionToDB=async()=>{
         )
         // log  for development
         console.log(`${chalk.blue.bold(`MOngodb connected: ${connect.connection.host}`)}`)
-        systemLogs.info(`${chalk.blue.bold(`MOngodb connected: ${connect.connection.host}`)}`)
+        //systemLogs.info(`${chalk.blue.bold(`MOngodb connected: ${connect.connection.host}`)}`)
     }catch(error){
         console.log(`${chalk.red.bold(`ERROR: ${error.message}`)}`)
         process.exit(1)

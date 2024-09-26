@@ -26,6 +26,6 @@ app.use("/api/v1/",apiLimiter, route)
 const PORT = process.env.PORT || 1997;
 app.listen(PORT, ()=>{
     console.log(`${chalk.green.bold("check")} Server running in ${chalk.yellow.bold(process.env.NODE_ENV)} mode on port ${chalk.blue.bold(PORT)}`);
-    systemLogs.info(`${chalk.green.bold("check")} Server running in ${chalk.yellow.bold(process.env.NODE_ENV)} mode on port ${chalk.blue.bold(PORT)}`);
+    //systemLogs.info(`${chalk.green.bold("check")} Server running in ${chalk.yellow.bold(process.env.NODE_ENV)} mode on port ${chalk.blue.bold(PORT)}`);
 
 });

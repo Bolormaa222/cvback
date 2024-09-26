@@ -9,7 +9,7 @@ const fileRotateTransport = new transports.DailyRotateFile({
     maxFiles: "14d"
 });
 export const systemLogs =()=>{
-    
+
 }
 /*
 export const systemLogs = createLogger({
@@ -56,7 +56,7 @@ export const morganMiddleware = morgan(
         stream:{
             write: (message)=>{
                 const data = JSON.parse(message)
-                systemLogs.http(`incom-request`, data);
+                //systemLogs.http(`incom-request`, data);
             }
         }
     }
