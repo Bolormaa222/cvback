@@ -36,7 +36,7 @@ const CreateResumeIntroduction=()=>{
                         })}
                         onSubmit={(values, helpers)=>{
                             console.log(" intro ", process.env)
-                            axios.post(`${process.env.REACT_APP_SERVER_DOMAIN}/api/v1/add`,{
+                            axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/add`,{
                                 firstName:values.firstName,
                                 email:values.email,
                                 lastName: values.lastName

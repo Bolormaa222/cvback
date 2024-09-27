@@ -8,9 +8,9 @@ export const apiLimiter = rateLimit({
         message: "too many requests from this ip address please try after 15 minutes"
     },
     handler: (req, res, next, options)=>{
-        // systemLogs.error(
-        //     `Too many requests: ${options.message.message}\t${req.method}\t${req.urls}\t${req.headers.origin}`
-        // );
+        systemLogs.error(
+            `Too many requests: ${options.message.message}\t${req.method}\t${req.urls}\t${req.headers.origin}`
+        );
         res.status(options.statusCode).send(options.message);
     },
     standardHeaders: true,

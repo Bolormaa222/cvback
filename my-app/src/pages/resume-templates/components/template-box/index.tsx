@@ -6,7 +6,7 @@ const TemplateBox=({image, title, description}:TemplateBoxProps)=>{
     const navigate = useNavigate()
     return(
         <div className='template-box mt-50 mb-50' onClick={()=>{
-            navigate(`${process.env.REACT_APP_DOMAIN}/app/create-resume/introduction?template=brussels`)
+            navigate(`/app/create-resume/introduction?template=brussels`)
         }}>
             <div className="template-box__image">
                 <img src={image} alt="" />

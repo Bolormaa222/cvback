@@ -4,4 +4,4 @@ npm-debug.log*
 .git
 .env
 .npm
-node_modules/
+node_modules
