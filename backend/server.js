@@ -20,7 +20,9 @@ import cors from 'cors'
  app.use(mongoSanitize())
  app.use(morganMiddleware)
  app.use(cors());
-
+app.get("/",(req, res)=>{
+    res.send("hi")
+})
 app.use("/api/v1/",apiLimiter, route)
 
 const PORT = process.env.PORT || 1997;
