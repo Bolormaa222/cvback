@@ -7,6 +7,12 @@ import validator from 'validator';
 
 const {Schema} = mongoose;
 const cvSchema = new Schema({
+    websiteLinks:[
+        {
+            name:String,
+            link:String
+        }
+    ],
     firstName: {
         type:String,
         required:true,

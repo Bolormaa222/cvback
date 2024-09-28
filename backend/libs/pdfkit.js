@@ -34,7 +34,7 @@ export function buildPDF(dataCallback, endCallback, cvData) {
     
   
   const {firstName, lastName, jobTitle, phone, country, city, email, 
-    linkedIn, educationList,skills, description, experienceList
+    linkedIn, educationList,skills, description, experienceList, websiteLinks
   }= cvData
   //doc.pipe(fs.createWriteStream('/files/output.pdf'));
   let height = 0;
@@ -171,7 +171,7 @@ export function buildPDF(dataCallback, endCallback, cvData) {
         { label:"Education", property: 'name', align:"center", width: size.width-paddingLeft-paddingRight, renderer: null },
       ],
       datas: [{
-        name:"Education",
+        name:`Education ${skills.length}`,
         options:{
           fontSize: 30
         }
@@ -211,7 +211,7 @@ export function buildPDF(dataCallback, endCallback, cvData) {
       prepareRow: (row, indexColumn, indexRow, rectRow) => doc.font("Helvetica").fontSize(8),
     });
   }
-  
+
   if(skills.length>0){
 
     const tableskill = {
@@ -238,8 +238,40 @@ export function buildPDF(dataCallback, endCallback, cvData) {
       prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8),
       prepareRow: (row, indexColumn, indexRow, rectRow) => doc.font("Helvetica").fontSize(8),
     });
+    let skillString = "";
+    for(let i = 0; i<skills.length; i++){
+      skillString= skillString.concat(skills[i].name+", ");
 
+    }
     const tableskillValue = {
+      options: {
+        // divider lines
+        divider: {
+          header: {disabled: true, width: 0.5, opacity: 0.5},
+          horizontal: {disabled: true, width: 1, opacity: 1},
+        },
+        hideHeader: true, 
+      },
+      headers: [
+        { label:"Skills", property: 'name', align:"center", width: size.width-paddingLeft-paddingRight, renderer: null },
+      ],
+      datas: [{
+        name: skillString,
+        options:{
+          fontSize: 30
+        }
+      }],
+      rows: [],
+    };
+    doc.table(tableskillValue, {
+      prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8),
+      prepareRow: (row, indexColumn, indexRow, rectRow) => doc.font("Helvetica").fontSize(8),
+    });
+  }
+
+  if(websiteLinks.length>0){
+
+    const tablewebsiteheader = {
       options: {
         // divider lines
         divider: {
@@ -252,14 +284,45 @@ export function buildPDF(dataCallback, endCallback, cvData) {
         { label:"Skills", property: 'name', align:"center", width: size.width-paddingLeft-paddingRight, renderer: null },
       ],
       datas: [{
-        name:"Skills",
+        name:"Contact",
         options:{
           fontSize: 30
         }
       }],
       rows: [],
     };
-    doc.table(tableskillValue, {
+    doc.table(tablewebsiteheader, {
+      prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8),
+      prepareRow: (row, indexColumn, indexRow, rectRow) => doc.font("Helvetica").fontSize(8),
+    });
+    let contactArray = [];
+    for(let i = 0; i<websiteLinks.length; i++){
+      contactArray.push({
+        name: websiteLinks[i].name,
+        name1:websiteLinks[i].link,
+        options:{
+          fontSize: 30
+        }
+      })
+    }
+    
+    const tablecontactValue = {
+      options: {
+        // divider lines
+        divider: {
+          header: {disabled: true, width: 0.5, opacity: 0.5},
+          horizontal: {disabled: true, width: 1, opacity: 1},
+        },
+        hideHeader: true, 
+      },
+      headers: [
+        { label:"Skillswebste", property: 'name', align:"left", width: (size.width-paddingLeft-paddingRight)/3, renderer: null },
+        { label:"Skills1", property: 'name1', align:"left", width: (size.width-paddingLeft-paddingRight)/3*2, renderer: null },
+      ],
+      datas: contactArray,
+      rows: [],
+    };
+    doc.table(tablecontactValue, {
       prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8),
       prepareRow: (row, indexColumn, indexRow, rectRow) => doc.font("Helvetica").fontSize(8),
     });
