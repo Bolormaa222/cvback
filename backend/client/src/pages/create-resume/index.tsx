@@ -66,7 +66,7 @@ const CreateResume = () => {
                         Personal details
                     </h2>
                     {loaded&&
-                    (<div>
+                    (<div className='create-resume__form'>
                         <Formik
                             initialValues={info}
                             validationSchema={Yup.object({

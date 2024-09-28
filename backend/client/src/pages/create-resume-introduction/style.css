@@ -8,8 +8,18 @@
     width:500px;
     margin: 0 auto;
     margin-top:50px;
-    
 }
+@media only screen and (max-width: 500px) {
+    /* For mobile phones: */
+    .intro__body {
+      width: 300px;
+    }
+    .intro__sub-header{
+        width: 300px;
+        margin: 0 auto;
+    }
+  }
+
 .intro__bottom{
     display: flex;
     justify-content: flex-end;

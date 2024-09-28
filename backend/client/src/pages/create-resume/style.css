@@ -82,3 +82,26 @@
     align-items: center;
     border-radius: 3px;
 }
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .create-resume{
+        flex-direction: column;
+        max-height: none;
+    }
+    .create-resume, .create-resume__left, .create-resume__right{
+      max-height: none;
+    } 
+    .create-resume__left, .create-resume__right{
+        width: 100%;
+    }
+    .create-resume__left{
+        padding: 50px 0;
+        
+    }
+    .create-resume__left__inside{
+        padding: 0 50px;
+    }
+    /* .create-resume__form{
+        padding: 0 50px;
+    } */
+  }

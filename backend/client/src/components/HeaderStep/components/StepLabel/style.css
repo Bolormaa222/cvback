@@ -5,6 +5,12 @@
     color:var(--neutral-90);
     letter-spacing:0.5px;
 }
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    .step-label, .step-label__inactive {
+      display: none;
+    }
+}
 .step-label__inactive{
     color:var(--neutral-50);
     letter-spacing:0.5px;

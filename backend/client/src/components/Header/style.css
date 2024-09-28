@@ -1,6 +1,6 @@
 .header-home{
     height: 80px;
-    background-color: white;
+    background-color: transparent;
     display: flex;
     margin: 0 40px;
 }
