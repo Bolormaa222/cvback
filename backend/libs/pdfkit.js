@@ -171,7 +171,7 @@ export function buildPDF(dataCallback, endCallback, cvData) {
         { label:"Education", property: 'name', align:"center", width: size.width-paddingLeft-paddingRight, renderer: null },
       ],
       datas: [{
-        name:`Education ${skills.length}`,
+        name:`Education`,
         options:{
           fontSize: 30
         }
