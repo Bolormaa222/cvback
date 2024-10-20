@@ -8,7 +8,7 @@ import express from 'express';
  import connectionToDB from './config/connectDB.js';
  import route from './routes/index.js'
 import { apiLimiter } from './middleware/apiLimiter.js';
-
+import cron  from 'node-cron';
 import path from 'path'
 import {fileURLToPath} from 'url'
 
@@ -39,3 +39,11 @@ app.listen(PORT, ()=>{
     //systemLogs.info(`${chalk.green.bold("check")} Server running in ${chalk.yellow.bold(process.env.NODE_ENV)} mode on port ${chalk.blue.bold(PORT)}`);
 
 });
+cron.schedule('* * * * *', async () => {
+    console.log('running every minute 1, 2, 4 and 5');
+    const result = await fetch("https://cron-8kds.onrender.com/cron",{
+      method:"GET"
+    });
+    let res = await result.json()
+    console.log("res ", res)
+  });
