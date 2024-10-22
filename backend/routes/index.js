@@ -6,7 +6,9 @@ import updateCv from '../controller/updateCvController.js'
 import { apiLimiter } from "../middleware/apiLimiter.js";
 
 const router = Router();
-
+router.get("/test", (req, res)=>{
+  res.json({succes:false})
+})
 router.post("/add",  createCv)
 router.get("/detail/:id", async(req, res)=>{
     const id = req.params.id;
