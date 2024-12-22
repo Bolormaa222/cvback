@@ -15,7 +15,7 @@ const connectionToDB=async()=>{
         )
         */
         const connect = await mongoose.connect(
-            "mongodb://cv_honorzero:4be0630bf1e93f73562a4da0b411eafadcf0753f@21w.h.filess.io:27017/cv_honorzero"
+            "mongodb://cv_teamrefer:b116a99ae89499cc0f131bc6534ec4f827ac8627@65hn8.h.filess.io:27018/cv_teamrefer"
         )
        
         // log  for development
