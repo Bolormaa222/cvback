@@ -16,14 +16,14 @@ const cvSchema = new Schema({
     firstName: {
         type:String,
         required:true,
-        validate:[validator.isAlphanumeric, "First name can only have alpha numeric values. No special characters allowed."],
+        validate:[/[a-zA-Z\s]+/, "First name can only have alpha numeric values. No special characters allowed."],
         trim:true
     },
     lastName:{
         type: String,
         required: true,
         validate: [
-            validator.isAlphanumeric, "Last name  can only have alpha numeric values. NO special cahracters allowed."
+            /[a-zA-Z\s]+/, "Last name  can only have alpha numeric values. NO special cahracters allowed."
         ],
         trim: true
     },

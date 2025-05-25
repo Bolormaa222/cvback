@@ -22,7 +22,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
 
 const CreateResume = () => {
     const navigate = useNavigate()
-    
+    const [progress, setProgress]=useState(0)
     let {  id} = useParams();
     const [info, setInfo] = useState(defaultPersonalDetails)
     const [savedInfo, setSavedInfo]=useState<PersonalDetails|null>(null)
@@ -56,12 +56,93 @@ const CreateResume = () => {
             setLoaded(false)
         }
     }
+    const onDocumentLoadError=()=>{
+        
+    }
+    const isEmpty=(value:any)=>{
+        if(value==null|| value==undefined||value==" "||value==""||value.length==1||Object.keys(value).length === 0)
+        {
+            return true;
+        }else{
+            return false;
+        }
+        
+    }
+    const checkProgress=(values:any)=>{
+        let point = 0;
+        if(!isEmpty(values.jobTitle)){
+            point+=5;
+        }
+        if(!isEmpty(values.nationality)){
+            point+=5;
+        }
+        if(!isEmpty(values.firstName)){
+            point+=5;
+            if(!isEmpty(values.lastName)){
+                point+=5;
+            }
+        }
+        if(!isEmpty(values.email)){
+            point+=5;
+        }
+        if(!isEmpty(values.phone)){
+            point+=5;
+        }
+        if(!isEmpty(values.country)){
+            point+=5;
+        }
+        if(!isEmpty(values.city)){
+            point+=5;
+        }
+        if(!isEmpty(values.linkedIn)){
+            point+=5;
+        }
+        if(!isEmpty(values.postalCode)){
+            point+=5;
+        }
+        if(!isEmpty(values.dateOfBirth)){
+            point+=5;
+        }
+        if(!isEmpty(values.placeOfBirth)){
+            point+=5;
+        }
+        if(!isEmpty(values.description)){
+            point+=5;
+        }
+        if(!isEmpty(values.educationList)){
+            point+=10;
+        }
+        if(!isEmpty(values.experienceList)){
+            point+=10;
+        }
+        if(!isEmpty(values.websiteLinks)){
+            point+=10;
+        }
+        if(!isEmpty(values.skills)){
+            point+=5;
+        }
+        console.log("values ", values)
+        setProgress(point)
+        
+    }
+    const onsubmit= async (values:any)=>{
+        try{
+            console.log("values ", values)
+            checkProgress(values)
+            const result = await axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/update/${id}`,values)
+            console.log("after result ",result)
+            setSavedInfo(result.data.data)
+        }catch(err){
+            console.log("err ", err)
+            setSavedInfo(null)
+        }
+    }
 
     return (
         <div className='create-resume'>
             <div className='create-resume__left'>
                 <div className='create-resume__left__inside'>
-                    <Progress progress={15} />
+                    <Progress progress={progress} />
                     <h2 className='mt-30 mb-30'>
                         Personal details
                     </h2>
@@ -110,15 +191,7 @@ const CreateResume = () => {
                                 )
                             })}
                             onSubmit={async (values, helpers) => {
-                                try{
-                                    console.log("values ", values)
-                                    const result = await axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/update/${id}`,values)
-                                    console.log("after result ",result)
-                                    setSavedInfo(result.data.data)
-                                }catch(err){
-                                    console.log("err ", err)
-                                    setSavedInfo(null)
-                                }
+                                onsubmit(values)
                             }}
                         >
                             {({ values, handleChange, handleBlur }) => (
@@ -419,8 +492,14 @@ const CreateResume = () => {
                             //}
                             }} type={ButtonType.button} />
                     </div>
-                    <Document  className={"document"} file={`${process.env.REACT_APP_DOMAIN}/api/v1/invoice/${id}?time=${Math.random()}`} onLoadSuccess={onDocumentLoadSuccess}>
-                        <Page className={"page"} height={window.innerHeight-100} scale={1} renderTextLayer={false} renderAnnotationLayer={false} pageNumber={pageNumber} />
+                    <Document  className={"document"} 
+                        file={`${process.env.REACT_APP_DOMAIN}/api/v1/invoice/${id}?time=${Math.random()}`} 
+
+                        onLoadError={onDocumentLoadError} onLoadSuccess={onDocumentLoadSuccess}
+                        
+                        >
+                        <Page className={"page"} height={window.innerHeight-100} scale={1} renderTextLayer={false} 
+                        renderAnnotationLayer={false} pageNumber={pageNumber} />
                     </Document>
                     <p>
                         Page {pageNumber} of {numPages}

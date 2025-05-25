@@ -11,8 +11,13 @@ import Input from '../../components/formik/input';
 import Button, { ButtonType } from '../../components/Button';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios'
+import { ToastContainer, toast } from 'react-toastify';
 const CreateResumeIntroduction=()=>{
     const navigate = useNavigate()
+    const isEmailValid=(value:string)=>{
+        const reg = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return reg.test(value)
+    }
     
     return(
         <div className='intro'>
@@ -30,12 +35,15 @@ const CreateResumeIntroduction=()=>{
                     <Formik<IntroName>
                         initialValues={defaultIntroName}
                         validationSchema={Yup.object({
-                            firstName:Yup.string().required("First Name is required"),
-                            lastName: Yup.string().required("Last name is required"),
-                            email: Yup.string().required("Email is required")
+                            firstName:Yup.string().required("First Name is required")
+                            .matches(/[a-zA-Z0-9\s]+/g, '* first This field cannot contain only blankspaces'),
+                            lastName: Yup.string().min(2,'Last name should be at least 2 characters.').required("Last name is required")
+                            .matches(/[a-zA-Z0-9\s]+/g, '* last This field cannot contain only blankspaces'),
+                            email: Yup.string().required("Email is required").email("Invalid email format")
                         })}
                         onSubmit={(values, helpers)=>{
-                            console.log(" intro ", process.env)
+                            
+                            
                             axios.post(`${process.env.REACT_APP_DOMAIN}/api/v1/add`,{
                                 firstName:values.firstName,
                                 email:values.email,
@@ -49,7 +57,8 @@ const CreateResumeIntroduction=()=>{
                                 
                             })
                             .catch(err=>{
-
+                                toast.error("Sorry, error occured. Try again.");
+                                
                             })
                            
                             //send and create cv object with names and email then pass cvid in url
@@ -80,6 +89,7 @@ const CreateResumeIntroduction=()=>{
                 </div>
                
             </div>
+            <ToastContainer />
         </div>
     )
 }

@@ -1,7 +1,7 @@
 import chalk from 'chalk';
 import mongoose from 'mongoose';
 import { systemLogs } from '../utils/Logger.js';
-
+import 'dotenv/config'
 const connectionToDB=async()=>{
     try{
         /*
@@ -15,7 +15,7 @@ const connectionToDB=async()=>{
         )
         */
         const connect = await mongoose.connect(
-            "mongodb://cv_teamrefer:b116a99ae89499cc0f131bc6534ec4f827ac8627@65hn8.h.filess.io:27018/cv_teamrefer"
+            `${process.env.DATABASE}`
         )
        
         // log  for development
